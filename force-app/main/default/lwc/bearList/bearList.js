@@ -23,4 +23,4 @@ export default class BearList extends LightningElement {
 	get hasResults() {
 		return (this.bears.data.length > 0);
 	}
-}
+}=
